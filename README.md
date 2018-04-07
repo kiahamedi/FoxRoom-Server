@@ -36,7 +36,7 @@ https://www.genymotion.com/fun-zone/
 for use create account in site and download genymotion and Sign in into genymotion and download machin galaxy s7 (ok now fix genymotion)
 now run Machin S7 (Device android) and for install apk file drag apk file into machin and install 
 
-===============
+
 now next 3 part up we can use FoxRoom
 type into chrom and firefox 192.168.1.1 or append folder that copy file html and ...
 run application android and useful FoxRoom
