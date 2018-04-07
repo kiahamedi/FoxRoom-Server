@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        <title>FoxRoom Web Server</title>
+
+        <meta charset="UTF-8" />
+
+        <meta name="viewport" content="width=device-width" />
+
+        <script type="text/javascript" src="jquery.js"></script>
+
+        <script type="text/javascript" src="main.js"></script>
+
+        <link rel="stylesheet" type="text/css"
+                href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700" />
+
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+
+    <body>
+        <div class="body_container">
+            <div id="header">
+                <h1>FoxRoom Chat Application</h1>
+
+                <p class="online_count">
+                    <b>4</b> peoples are online right now!
+                </p>
+            </div>
+
+            <div id="prompt_name_container" class="box_shadow">
+                <p>Enter your name?</p>
+
+                <form id="form_submit" method="post">
+                    <input type="text" id="input_name" />
+                    <input type="submit" value="JOIN" id="btn_join" />
+                </form>
+            </div>
+
+            <div id="message_container" class="box_shadow">
+                <ul id="messages">
+
+                </ul>
+
+                <div id="input_message_container">
+                    <form id="form_send_message" method="post" action="#">
+                        <input type="text" id="input_message"
+                                placeholder="Type your message here..." />
+                        <input type="submit" value="SEND" id="btn_send" onclick="send();" />
+                    </form>
+                </div>
+
+                <div>
+                    <input type="button" value="Leave Chat Room" id="btn_close" onclick="closeSocket();" />
+                </div>
+            </div>
+
+            <div id="header">
+                <h1>Kia Hamedi</h1>
+                <h1>Kia.arta9793@gmail.com</h1>
+                <h1>http://www.kiahamedi.ir</h1>
+            </div>
+        </div>
+    </body>
+</html>
