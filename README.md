@@ -15,7 +15,7 @@ ok now install xampp and start (apachi,phpmyadmin,tomcat)
 good!!!
 
 two:now download eclips for java from:
-[200~https://www.eclipse.org/downloads/?
+[https://www.eclipse.org/downloads/?]
 
 and next install emport source from SERVER into eclipse and RightClick on project in eclipse and export (war) file from project
 ok now me have war file!!!
@@ -42,6 +42,6 @@ type into chrom and firefox 192.168.1.1 or append folder that copy file html and
 run application android and useful FoxRoom
 
 
->>>kia hamedi<<<<
->>>kiahamedi.ir<<<
->kia.arta9793@gmail.com<
+kia hamedi
+www.kiahamedi.ir
+kia.arta9793@gmail.com
